@@ -3,3 +3,8 @@ int multi(ina a, int b)
    int sum=a*b;
     return sum;
 }
+
+int minus(int a, int b)
+{
+    return a-b;
+}
