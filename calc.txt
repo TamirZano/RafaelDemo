@@ -1,0 +1,5 @@
+int multi(ina a, int b)
+{
+   int sum=a*b;
+    return sum;
+}
