@@ -3,3 +3,7 @@ int multi(ina a, int b)
    int sum=a*b;
     return sum;
 }
+
+int Division(int a, int b){
+	return a/b;
+}
