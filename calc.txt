@@ -4,6 +4,11 @@ int multi(ina a, int b)
     return sum;
 }
 
+int Division(int a, int b){
+	return a/b;
+}
+
+
 int minus(int a, int b)
 {
     return a-b;
